@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Smartphone Inventory</string>
+
+    <string name="text_smartphone_name"> Name:</string>
+    <string name="text_price">Price:</string>
+    <string name="text_quantity">Quantity:</string>
+    <string name="text_supplier_name">Supplier Name:</string>
+    <string name="text_supplier_phone">Supplier Phone:</string>
+    <string name="text_button_edit">EDIT</string>
+    <string name="text_button_delete">DELETE</string>
+    <string name="text_button_call_to_supplier">CALL TO SUPPLIER</string>
+    <string name="text_minus">-</string>
+    <string name="text_plus">+</string>
+    <string name="text_empty_home">Add Smartphone list here</string>
+    <string name="text_smartphone_details">Smartphone Details</string>
+    <string name="text_hint_smartphone_name">Smartphone Name</string>
+    <string name="text_smartphone_price">Rs.</string>
+    <string name="text_hint_smartphone_price">Price</string>
+    <string name="text_smartphone_quantity">Quantity</string>
+    <string name="text_hint_smartphone_supplier_name">Supplier Name</string>
+    <string name="text_hint_smartphone_supplier_phone">Supplier Phone</string>
+    <string name="text_list_price">Price:</string>
+    <string name="text_list_quantity">Quantity:</string>
+    <string name="text_price_in_rs">Rs.</string>
+    <string name="text_insert_dummy_data">Insert Dummy Data</string>
+    <string name="text_delete_all_smartphone">Delete All Smartphone </string>
+    <string name="text_save">Save</string>
+    <string name="text_delete">Delete</string>
+    <string name="editor_activity_title_new_smartphone">Add a Smartphone</string>
+    <string name="editor_activity_title_edit_smartphone">Edit Smartphone</string>
+    <string name="editor_insert_smartphone_successful">Smartphone saved</string>
+    <string name="editor_insert_smartphone_failed">All information must be entered!</string>
+    <string name="editor_update_smartphone_successful">Smartphone updated</string>
+    <string name="editor_update_smartphone_failed">Error with updating smartphone</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_smartphone_successful">Smartphone deleted</string>
+    <string name="editor_delete_smartphone_failed">Error with deleting smartphone</string>
+    <string name="delete_dialog_msg">Delete this smartphone?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="text_sale">SALE</string>
+
+    <style name="EditorTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
